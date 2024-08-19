@@ -1,4 +1,4 @@
-## Локальный запускчерез docker
+## Локальный запуск через docker
 ```
 docker-compose build
 ```
